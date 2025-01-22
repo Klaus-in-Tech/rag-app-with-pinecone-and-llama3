@@ -4,7 +4,7 @@ This project demonstrates how to use vector databases with LangChain and Pinecon
 
 ## Prerequisites
 
-- Python 3.8+
+- [Python](https://www.python.org/downloads/)
 - [Pinecone](https://www.pinecone.io/)
 - [LangChain](https://www.langchain.com/)
 - [dotenv](https://pypi.org/project/python-dotenv/)
